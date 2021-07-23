@@ -57,7 +57,7 @@
             <!-- Mobile menu end -->
 
             <div class="avatar">
-                <img src="assets/images/DS.jpg" alt="avatar">
+                <!--<img src="assets/images/DS.jpg" alt="avatar">-->
             </div>
 
             <div class="name">
